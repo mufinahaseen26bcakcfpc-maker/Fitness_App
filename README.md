@@ -37,7 +37,7 @@ PULSE is a fitness application designed to help users maintain a healthy lifesty
 *Track your progress, stay consistent, and become the strongest version of yourself.*
 
 ## 📷 Mood Board Design
-This mood board app image shows the visual concept, color palette, typography, fitness inspiration, and user interface references used for the PULSE Fitness App.
+This  image shows the visual concept, color palette, typography, fitness inspiration, and user interface references used for the PULSE Fitness App.
 
 <img width="1732" height="3070" alt="Fitness App" src="https://github.com/user-attachments/assets/1819a893-810c-4602-a05c-1fbe656891e8" />
 
